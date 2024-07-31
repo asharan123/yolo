@@ -5,3 +5,4 @@ Model Training: Using the prepared dataset, we will train a YOLOv5 model. The tr
 Evaluation: After training, the model's performance will be evaluated using standard metrics like precision, recall, and mAP (mean Average Precision). We will also visualize the detection results on test images.
 Real-Time Detection: Finally, we will demonstrate how to apply the trained YOLOv5 model for real-time vehicle detection using video data from traffic cameras
 
+![alt text](output.png)
